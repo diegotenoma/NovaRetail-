@@ -1,4 +1,4 @@
-🛍️ Análisis de Factores de Comportamiento — NovaRetail+
+# 🛍️ Análisis de Factores de Comportamiento — NovaRetail+
 
 Análisis estadístico del comportamiento de clientes de NovaRetail+, una plataforma de e-commerce en Latinoamérica, con el objetivo de identificar qué variables están más fuertemente asociadas con el ingreso anual generado por cada cliente.
 
